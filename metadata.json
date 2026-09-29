@@ -1,0 +1,6 @@
+{
+  "name": "CareerPilot - AI-Powered Career Intelligence",
+  "description": "Analyze your resume, discover career gaps, build ATS-optimized resumes, and upgrade your skills with autonomous career telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
